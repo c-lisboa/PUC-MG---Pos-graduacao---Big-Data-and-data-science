@@ -1,1 +1,1 @@
-# PUC-MG---Pos-graduacao---Big-Data-and-data-science
+# Repositório para as atividades relacionadas a pós graduação da PUC Minas em Big Data and Data Science
